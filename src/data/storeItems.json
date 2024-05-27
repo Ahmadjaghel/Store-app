@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "RealMadrid",
+    "price": 10.99,
+    "img": "/imgs/Real.jpg"
+  },
+  {
+    "id": 5,
+    "name": "RealMadrid1",
+    "price": 11,
+    "img": "/imgs/Real1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "lenovo",
+    "price": 1199,
+    "img": "/imgs/Lenovo.jpg"
+  },
+  {
+    "id": 6,
+    "name": "lenovo1",
+    "price": 1200,
+    "img": "/imgs/Lenovo1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Night Man",
+    "price": 1.05,
+    "img": "/imgs/man.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Spider Man",
+    "price": 14000,
+    "img": "/imgs/spider.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Spider Man1",
+    "price": 15000,
+    "img": "/imgs/spider1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ball",
+    "price": 15000,
+    "img": "/imgs/ball.jpg"
+  }
+]
